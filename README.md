@@ -1,9 +1,14 @@
-# Project Overview
+# sstc-data-model-and-report
+
+Data Analysis and Visualization with Microsoft Power Bi Banque Saudi Fransi(BSF) scholarship X Udacity 
+
+
+## Project Overview
 In this project, you'll create a data model and Power BI report for Seven Sages Tea Company (SSTC) that combines information from all over the company. Your data model will make it possible for the company's CFO to quickly review and analyze which tea beverages sell well and which ones generate the highest profitability.
 
 At the end, you will have applied the key concepts of this course to combine and centralize data that was previously siloed, solving a very common issue facing many companies. More importantly, you'll have a solid foundation to build on when it comes to more complex reporting visualization demands, advanced DAX requirements, or larger data models. No matter how large the data models get as your career progresses, the core principles remain the same.
 
-## Scenario
+### Scenario
 You're a junior BI developer who's just been hired by the Seven Sages Tea Company (SSTC) up near Seattle, Washington (USA).
 
 It's a small, but growing company, and the CFO is eager to get some help translating all the disjointed sales files and product records into something usable so that they can help the owners make sense of what is generating not only sales but profitability.
@@ -23,7 +28,7 @@ When you complete this assignment, tab 1 of your report will look like this:
 …and tab 2 will look like this:
 ![image](https://github.com/AmjaadXX/Project1DataAnalysisAndVisualizationWithMicrosoftPowerBi/assets/145211625/80911e33-d5c3-4161-95ea-8e971b11924a)
 
-### Main Steps
+#### Main Steps
 
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
 
