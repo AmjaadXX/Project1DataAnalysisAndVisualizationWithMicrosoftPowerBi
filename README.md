@@ -1,5 +1,4 @@
 # sstc-data-model-and-report
-
 Data Analysis and Visualization with Microsoft Power Bi Banque Saudi Fransi(BSF) scholarship X Udacity 
 
 
