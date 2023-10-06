@@ -1,7 +1,5 @@
 # sstc-data-model-and-report
-Data Analysis and Visualization with Microsoft Power Bi Banque Saudi Fransi(BSF) scholarship X Udacity 
-
-
+Data Analysis and Visualization with Microsoft Power Bi Banque Saudi Fransi(BSF) scholarship X Udacity
 ## Project Overview
 In this project, you'll create a data model and Power BI report for Seven Sages Tea Company (SSTC) that combines information from all over the company. Your data model will make it possible for the company's CFO to quickly review and analyze which tea beverages sell well and which ones generate the highest profitability.
 
